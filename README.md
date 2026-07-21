@@ -31,8 +31,8 @@ the instructions in `erdos617_reproduce.md`.
 ## AI disclosure
 
 AI systems were used extensively in discovering, writing, testing, and
-auditing this proof. These included OpenAI Codex (GPT-5) and Anthropic
-Claude [insert exact model/version]. A human submitter should read and
+auditing this proof. These included OpenAI Codex (GPT-5.6) and Anthropic
+Claude Fable 5. A human submitter should read and
 understand the argument before presenting it as a proof claim.
 
 ## Verification
