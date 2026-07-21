@@ -56,17 +56,8 @@ at least `5 * 66 = 330` edges, while `K_26` has only 325.
 ## AI disclosure
 
 AI systems were used extensively in discovering, writing, testing, and auditing
-this proof. These included OpenAI Codex (GPT-5) and Anthropic Claude (exact
-model/version to be supplied by the submitter). A human submitter should read,
+this proof. These included OpenAI Codex (GPT-5) and Anthropic Claude. A human submitter should read,
 understand, and accept responsibility for the argument before presenting it as
 a proof claim.
 
-## Author and contact
 
-Replace this section before publishing with the responsible human author's
-full name and preferred contact information.
-
-## License
-
-No license has yet been selected. Add an appropriate license before others are
-invited to reuse or modify the code.
